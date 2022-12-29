@@ -17,7 +17,7 @@ Estou migrando de área ao 30's, atuei por 10 anos em times comerciais, primeiro
 <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pcolombini&layout=compact&langs_count=7&theme=dracula"/>
 <img height="220em" src="https://github-readme-stats.vercel.app/api?username=Pcolombini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-![Snake animation](https://github.com/Pcolombini/Pcolombini/blob/output/github-contribution-grid-snake.svg)  
+<!---![Snake animation](https://github.com/Pcolombini/Pcolombini/blob/output/github-contribution-grid-snake.svg)  --->
 <!---
 Pcolombini/Pcolombini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
