@@ -14,8 +14,8 @@ Estou migrando de área ao 30's, atuei por 10 anos em times comerciais, primeiro
            
 <div>
 <a href="htts://github.com/Pcolombini">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pcolombini&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pcolombini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pcolombini&layout=compact&langs_count=7&theme=dracula"/>
+<img height="220em" src="https://github-readme-stats.vercel.app/api?username=Pcolombini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   
 <!---
