@@ -11,10 +11,13 @@ Estou migrando de área aos 30's, atuei por + de 10 anos em times comerciais, pr
 - 🌱 Barecharelando em Ciências da Computação na Descomplica, além de alguns cursos extras nas linguagens ...          
 - 📫 Dá uma conferida no meu <a href="https://www.linkedin.com/in/paschoal-colombini-77b395b9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" width="80" height="25"></a> 
 - 🌎 De Minas Gerais, uai sô, vai um pão de queijo ai??!! 
-           
+<hr>
 <div>
 <a href="htts://github.com/Pcolombini">
-<img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pcolombini&layout=compact&langs_count=7&theme=dracula"/>
+<img height="220em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pcolombini&layout=compact&langs_count=7&theme=dracula"/>           
+</a>
+</div>
+<div>
 <img height="220em" src="https://github-readme-stats.vercel.app/api?username=Pcolombini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 <!---![Snake animation](https://github.com/Pcolombini/Pcolombini/blob/output/github-contribution-grid-snake.svg)  --->
